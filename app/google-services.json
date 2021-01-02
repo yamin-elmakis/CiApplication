@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750584200145",
+    "project_id": "ciapplication",
+    "storage_bucket": "ciapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750584200145:android:7987d89c92ccdb323e3ef0",
+        "android_client_info": {
+          "package_name": "com.example.ciapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750584200145-oudmqtg5irpnnra63jufgch150rc22cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm7FmS_3mbctaKpO-ZtcgzduCYHUjcOD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750584200145-oudmqtg5irpnnra63jufgch150rc22cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
